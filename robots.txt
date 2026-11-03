@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://eletricistaemvitoria.com.br/sitemap.xml
+Disallow: /
