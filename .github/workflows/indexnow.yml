@@ -1,0 +1,25 @@
+name: Avisar buscadores (IndexNow)
+
+# Depois de cada publicação no GitHub Pages, envia a lista de URLs ao IndexNow (Bing e parceiros).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Esperar o deploy do Pages terminar
+        run: sleep 90
+
+      - name: Enviar URLs ao IndexNow
+        continue-on-error: true
+        run: |
+          curl -fsS https://eletricistaemvitoria.com.br/indexnow-urls.json -o urls.json
+          curl -sS -o resposta.txt -w "IndexNow respondeu HTTP %{http_code}\n" -X POST https://api.indexnow.org/IndexNow \
+            -H 'Content-Type: application/json; charset=utf-8' --data @urls.json
+          cat resposta.txt

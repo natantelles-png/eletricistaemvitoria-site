@@ -362,3 +362,4 @@ p{margin:0 0 1em;text-wrap:pretty}
 }
 @media (max-width:999px){.com-fundo .fundo{position:relative;inset:auto;display:block;height:240px;z-index:0}.com-fundo::before{display:none}.hero.com-fundo .hero-in{padding-top:30px}.pg-topo.com-fundo .pg-topo-in{padding-top:26px}}
 @media (min-width:1000px){.hero-direita .fundo-direita{left:auto;right:0;width:62%;object-position:center}.hero-direita::before{background:linear-gradient(90deg,var(--azul) 0%,var(--azul) 38%,rgba(4,50,125,.55) 46%,rgba(4,50,125,0) 58%)}}
+.sec-resposta{padding:32px 0 0}.sec-resposta .resposta{margin-bottom:0}

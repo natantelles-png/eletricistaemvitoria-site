@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://eletricistaemvitoria.com.br/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/eletricista-24h-vitoria/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/residencial/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/lojas-shopping/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/empresas-condominios/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/carregador-veicular/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/projetos-revisoes/</loc><lastmod>2026-11-03</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://eletricistaemvitoria.com.br/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/eletricista-24h-vitoria/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/residencial/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/lojas-shopping/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/empresas-condominios/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/carregador-veicular/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/projetos-revisoes/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://eletricistaemvitoria.com.br/blog/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/blog/faltou-luz-so-em-casa-eletricista-24h-vitoria/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/blog/chuveiro-desarmando-disjuntor/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/blog/manutencao-eletrica-condominio-checklist/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/blog/obra-eletrica-loja-shopping/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://eletricistaemvitoria.com.br/blog/carregador-carro-eletrico-condominio-es/</loc><lastmod>2026-11-03</lastmod></url>
+  <url><loc>https://eletricistaemvitoria.com.br/blog/carregador-carro-eletrico-condominio-es/</loc><lastmod>2026-11-03</lastmod><image:image><image:loc>https://eletricistaemvitoria.com.br/assets/img/carregador-garagem.jpg</image:loc></image:image></url>
+  <url><loc>https://eletricistaemvitoria.com.br/blog/chuveiro-desarmando-disjuntor/</loc><lastmod>2026-11-03</lastmod><image:image><image:loc>https://eletricistaemvitoria.com.br/assets/img/quadro-medicao.jpg</image:loc></image:image></url>
+  <url><loc>https://eletricistaemvitoria.com.br/blog/faltou-luz-so-em-casa-eletricista-24h-vitoria/</loc><lastmod>2026-11-03</lastmod><image:image><image:loc>https://eletricistaemvitoria.com.br/assets/img/quadro-distribuicao.jpg</image:loc></image:image></url>
+  <url><loc>https://eletricistaemvitoria.com.br/blog/manutencao-eletrica-condominio-checklist/</loc><lastmod>2026-11-03</lastmod><image:image><image:loc>https://eletricistaemvitoria.com.br/assets/img/predio-manutencao.jpg</image:loc></image:image></url>
+  <url><loc>https://eletricistaemvitoria.com.br/blog/obra-eletrica-loja-shopping/</loc><lastmod>2026-11-03</lastmod><image:image><image:loc>https://eletricistaemvitoria.com.br/assets/img/loja-hering.jpg</image:loc></image:image></url>
 </urlset>
