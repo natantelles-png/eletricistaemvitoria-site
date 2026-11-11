@@ -4,7 +4,7 @@
 
 ## Dados do negócio
 - Nome: Elétrica Conexão Vix
-- Endereço: Escadaria Estevam Gonçalves dos Reis, 127, Itararé, Vitória - ES, 29047-469
+- Endereço: não divulgado; a equipe atende no local do cliente
 - Telefone e WhatsApp: (27) 99933-8844
 - Horário: aberto 24 horas, todos os dias
 - Área de atendimento: Vitória (foco), Vila Velha e Serra
@@ -14,19 +14,19 @@
 
 ## Eletricista 24 horas em Vitória
 URL: https://eletricistaemvitoria.com.br/eletricista-24h-vitoria/
-Resposta rápida: Sim, atendemos emergências elétricas em Vitória 24 horas por dia, todos os dias, inclusive feriados. Ao chamar no WhatsApp ou pelo (27) 99933-8844, informe o endereço e o que aconteceu. O valor é informado antes do serviço, depois do diagnóstico, e a base no Itararé ajuda a chegar mais rápido aos bairros vizinhos.
+Resposta rápida: Sim, atendemos emergências elétricas 24 horas por dia, todos os dias, inclusive feriados, em Vitória, Vila Velha e Serra. Ao chamar no WhatsApp ou pelo (27) 99933-8844, informe o endereço, o que aconteceu e, se puder, mande fotos. O valor é informado antes do serviço, depois do diagnóstico.
 Sem energia, curto-circuito, disjuntor que desarma ou cheiro de queimado. Explique a situação e a gente diz como e quando atende.
 - Atendimento todos os dias, inclusive feriados
 - Valor informado antes do serviço
-- Técnico com registro no CRT
+- Técnico habilitado e com registro no CRT
 
 ### Enquanto a equipe não chega
 - Se houver cheiro de queimado, faísca ou fumaça, desligue o disjuntor geral.
 - Não toque em fios expostos nem em equipamentos molhados.
 - Afaste crianças e animais do local.
-- Ao chamar, diga o endereço e o que aconteceu. Se puder, mande uma foto do quadro.
+- Ao chamar, diga o endereço e o que aconteceu. Se puder, mande fotos da situação local.
 
-### Situações que atendemos
+### Exemplos de situações que atendemos
 - Sem energia no imóvel todo ou em parte dele
 - Disjuntor que desarma toda hora
 - Curto-circuito e cheiro de queimado
@@ -41,9 +41,8 @@ Atendimento: Noturno, no mesmo dia
 Resultado: Energia restabelecida em 4 horas
 O condomínio não é identificado, por privacidade.
 
-### Saímos do Itararé
-Chegamos mais rápido aos bairros vizinhos e atendemos toda Vitória, além de Vila Velha e Serra.
-- Itararé
+### Atendemos no seu bairro
+A equipe vai até o local e atende toda Vitória, além de Vila Velha e Serra.
 - Santos Dumont
 - Santo André
 - São Pedro
@@ -63,7 +62,7 @@ Chegamos mais rápido aos bairros vizinhos e atendemos toda Vitória, além de V
 ### Dúvidas de quem precisa agora
 
 P: Em quanto tempo vocês chegam?
-Depende do bairro e do momento. Ao chamar, informe o endereço e a situação, e a gente confirma a previsão de chegada na hora.
+Depende do bairro e do momento. Ao chamar, informe o endereço e a situação, e a gente confirma a previsão de chegada na hora. Se puder, mande fotos do local.
 
 P: Vocês atendem de madrugada, no domingo e em feriado?
 Sim. O atendimento é 24 horas, todos os dias do ano.
@@ -77,13 +76,27 @@ Se houver cheiro de queimado, faísca ou fumaça, desligue o disjuntor geral. N�
 P: Atendem condomínios e empresas em emergência?
 Sim, 24 horas. Já restabelecemos a energia de um condomínio à noite, depois de um furto de cabos, em 4 horas.
 
+P: O que conta como emergência elétrica?
+Cheiro de queimado, faísca, fumaça, fio ou tomada quente, choque, quadro esquentando, curto-circuito e falta de energia que só atinge o seu imóvel. Nesses casos, desligue o disjuntor geral, se for seguro, e chame. Se houver fogo, ligue 193 (Bombeiros). Veja também o artigo sobre cheiro de queimado na tomada.
+
+### Leia também
+
+### Cheiro de queimado na tomada: o que fazer agora e quando chamar um eletricista 24 horas
+Cheiro de queimado, tomada quente ou faísca? Veja o que fazer nos primeiros minutos, o que nunca fazer e quando é emergência para chamar um eletricista 24 horas.
+
+### Levando choque na torneira, no chuveiro ou na geladeira? Aterramento e DR explicados
+Choquinho em torneira, chuveiro ou geladeira indica fuga de corrente. Entenda o que é aterramento e DR, o que a NBR 5410 prevê e por que não deve esperar.
+
+### Faltou luz só na sua casa? Veja se é caso da EDP ou de eletricista
+Se os vizinhos têm luz e só o seu imóvel apagou, o problema costuma estar do medidor para dentro, que é responsabilidade do morador, e o caminho é chamar um eletricista. Se a rua inteira apagou, quem resolve é a EDP. Disjuntor que cai de novo, cheiro de queimado, faísca ou fio quente são emergência: desligue o disjuntor geral e chame um profissional.
+
 ### Sem luz? Chame agora.
 Atendimento 24 horas, todos os dias.
 
-## Eletricista para casas e apartamentos em Vitória
+## Eletricista para casas e apartamentos na Grande Vitória
 URL: https://eletricistaemvitoria.com.br/residencial/
-Resposta rápida: Fazemos eletricidade residencial em casas e apartamentos de Vitória: adequação ou troca de quadro e disjuntores, tomadas, interruptores, chuveiro, iluminação e reformas de circuitos. Há diagnóstico no local antes do orçamento, o valor é informado antes do serviço e a execução é feita com responsável técnico registrado no CRT.
-Reformas, adequação de quadros, circuitos, tomadas, chuveiro e iluminação. Diagnóstico antes do orçamento e serviço com responsável técnico.
+Resposta rápida: Fazemos eletricidade residencial em casas e apartamentos da Grande Vitória: reformas, adequação ou troca de quadro e disjuntores, circuitos, tomadas, chuveiros, iluminação e execução de projetos de elétrica e iluminação. Há diagnóstico antes do orçamento, o valor é informado antes do serviço e a execução tem responsabilidade técnica.
+Reformas em geral, adequação de quadros, circuitos, tomadas, chuveiros e iluminação. Execução de projetos de elétrica e iluminação. Diagnóstico antes do orçamento e serviço com responsabilidade técnica.
 - Troca e adequação de quadro e disjuntores
 - Tomadas, interruptores e chuveiro
 - Iluminação interna, de fachada e áreas externas
@@ -100,18 +113,32 @@ P: O chuveiro desarma o disjuntor. Vocês resolvem?
 Sim. Na maioria dos casos é questão de circuito, bitola do fio ou disjuntor incompatíveis com a potência do chuveiro. Diagnosticamos e corrigimos.
 
 P: Fazem instalação de iluminação e fita de LED?
-Sim. Instalamos luminárias, iluminação de fachada e de áreas externas, como na residência em Alphaville que aparece nesta página.
+Sim. Sim. Instalamos luminárias, fita de LED, iluminação de fachada e de áreas externas, como na residência em Alphaville que aparece no topo desta página.
 
 P: Quanto custa?
 O valor é informado antes do serviço, depois da avaliação no local.
+
+P: Vocês executam projetos de elétrica e de iluminação?
+Sim. Executamos projetos de elétrica e de iluminação de casas e apartamentos, seguindo o projeto de arquitetos e engenheiros ou fazendo o projeto sob medida. Antes de começar, avaliamos a instalação existente e dizemos o que precisa mudar.
+
+### Leia também
+
+### Tomada de 10A ou 20A: qual a diferença e onde usar cada uma
+Tomada 10A ou 20A? Veja a diferença no pino, a potência que cada uma suporta, onde usar e por que trocar só a tomada pode não resolver.
+
+### Fiação antiga: sinais de que é hora de trocar (e quem paga no aluguel)
+Lâmpada piscando, tomada quente, cheiro de queimado ou disjuntor desarmando? Veja os sinais de fiação antiga, se ela aumenta a conta de luz e quem paga a troca.
+
+### Quanto custa um eletricista? O que faz o valor mudar
+Visita, troca de tomada, urgência à noite, material e responsabilidade técnica: veja o que entra no preço de um eletricista e como comparar orçamentos.
 
 ### Precisa de eletricista em casa?
 Conte o que precisa e o bairro. Respondemos pelo WhatsApp.
 
 ## Instalação elétrica de lojas em shopping
 URL: https://eletricistaemvitoria.com.br/lojas-shopping/
-Resposta rápida: Executamos a parte elétrica de lojas em shopping, do início da obra à iluminação final: eletrodutos, eletrocalhas, cabeamento, quadros, circuitos, testes e instalação de luminárias e tomadas conforme o projeto. Seguimos o cronograma e as normas de cada shopping. Já são 19 lojas em quatro shoppings da Grande Vitória, além de obras em outros estados.
-Executamos a parte elétrica de lojas de moda, alimentação, calçados, cosméticos e acessórios, do início da obra à iluminação final, dentro do cronograma e das normas de cada shopping.
+Resposta rápida: Executamos as instalações elétricas e de iluminação de lojas de qualquer segmento, em shopping centers ou na rua: eletrodutos, cabeamento, quadros, circuitos, testes e luminárias conforme o projeto. Seguimos o cronograma e as normas de cada local. Já são 19 lojas em quatro shoppings da Grande Vitória, além de obras em outros estados.
+Executamos as instalações elétricas e de iluminação de lojas de qualquer segmento, em shopping centers ou na rua. Do início à entrega da obra, seguimos o cronograma combinado, as normas técnicas e as exigências de cada local.
 - Eletrodutos, eletrocalhas e cabeamento
 - Montagem e identificação de quadros e circuitos
 - Testes antes da operação
@@ -121,6 +148,13 @@ Executamos a parte elétrica de lojas de moda, alimentação, calçados, cosmét
 Grandes marcas do varejo em quatro shoppings, e obras em shoppings de outros quatro estados.
 
 ### Fachadas e interiores entregues
+
+### Contrato de manutenção para a sua loja
+Depois da obra, a loja não pode parar. Oferecemos manutenção preventiva e corretiva por contrato, com valor fixo mensal e visitas regulares, para identificar aquecimento, desgaste e falhas de componentes antes que virem problema no horário de funcionamento.
+- Visitas regulares de inspeção
+- Atendimento corretivo quando algo falha
+- Valor fixo por mês, combinado antes de começar
+- Plano adaptado à rotina e à criticidade da loja
 
 ### Perguntas de quem toca a obra
 
@@ -134,23 +168,37 @@ P: Vocês atendem lojas fora do Espírito Santo?
 Já executamos obras em shoppings de São Paulo, Rio de Janeiro, Belo Horizonte e Brasília. Fale com a gente sobre o local e o prazo da sua obra.
 
 P: Emitem TRT?
-Sim. A execução é feita sob responsabilidade de técnico eletricista com registro no CRT, e o TRT é emitido nos serviços que exigem.
+Sim. A execução é feita sob responsabilidade de Técnico Eletricista com registro ativo no CRT, e com emissão de TRT – Termo de Responsabilidade Técnica.
+
+P: Vocês fazem manutenção de loja por contrato?
+Sim. Oferecemos manutenção preventiva e corretiva com contrato fixo, com valor mensal combinado e visitas regulares, para que a loja se antecipe aos problemas e não pare no meio da operação.
+
+### Leia também
+
+### Obra elétrica de loja em shopping: documentos, normas e etapas
+A obra elétrica de loja em shopping segue o manual técnico do empreendimento, a NBR 5410 e a NR-10, e precisa de responsável técnico com documento de responsabilidade (TRT ou ART). Os maiores riscos de atraso são projeto não aprovado, carga incompatível com o que o shopping libera e equipe sem documentação de segurança.
+
+### Projeto de iluminação LED: como planejar pontos, temperatura de cor e fita de LED
+Como planejar a iluminação LED de casa, loja ou escritório: camadas de luz, temperatura de cor, fita de LED com fonte, áreas externas e o que prever na parte elétrica.
+
+### Projeto elétrico e de iluminação com arquitetos e engenheiros: como funciona na obra
+Como o eletricista trabalha com o projeto de arquitetos e engenheiros: compatibilização, quadro de cargas, iluminação, execução por etapas e entrega.
 
 ### Tem uma loja para abrir?
 Mande o shopping, o projeto e o prazo. Respondemos pelo WhatsApp.
 
 ## Manutenção elétrica para empresas e condomínios
 URL: https://eletricistaemvitoria.com.br/empresas-condominios/
-Resposta rápida: Oferecemos manutenção elétrica preventiva e corretiva para empresas, indústrias e condomínios em Vitória, com atendimento corretivo 24 horas. Primeiro fazemos o diagnóstico, depois apresentamos o escopo por escrito e registramos o que foi encontrado. O TRT é emitido nos serviços que exigem, e o plano de manutenção é adaptado a cada local.
+Resposta rápida: Oferecemos manutenção elétrica preventiva e corretiva por contrato para empresas, indústrias e condomínios, com valor fixo mensal, visitas regulares e atendimento corretivo 24 horas. Primeiro fazemos o diagnóstico, depois apresentamos o escopo por escrito e registramos o que foi encontrado. O plano é adaptado a cada local.
 Diagnóstico antes da proposta, escopo por escrito, registro do que foi encontrado e TRT nos serviços que exigem. Atendimento corretivo 24 horas.
 - Manutenção preventiva programada
 - Manutenção corretiva 24 horas
 - Instalações comerciais, prediais e industriais
 - Eventos e instalações temporárias
 
-### Contrato de manutenção
-Um plano adaptado à rotina, à criticidade e à estrutura de cada condomínio ou empresa.
-Preventiva: Inspeções programadas para encontrar aquecimento, desgaste, falhas de componentes e condições que comprometem a instalação.
+### Contrato de manutenção preventiva e corretiva
+Um plano com valor fixo mensal e visitas regulares, adaptado à rotina, à criticidade e à estrutura de cada condomínio ou empresa. O cliente se antecipa aos problemas em vez de descobrir na hora da falha.
+Preventiva: Inspeções preventivas periódicas, como as semanais, conforme o plano, para identificar aquecimento, desgaste, falhas de componentes e condições que comprometem a instalação.
 Corretiva: Diagnóstico de falhas, substituições necessárias e restabelecimento dos sistemas afetados, a qualquer hora.
 Registro: Você recebe o que foi encontrado, o que foi feito e o que recomendamos.
 
@@ -167,16 +215,30 @@ P: Vocês fazem diagnóstico antes da proposta?
 Sim. Fazemos a visita técnica, levantamos as condições existentes e só então apresentamos escopo, prazo, equipe e condições comerciais.
 
 P: Como funciona a manutenção por contrato?
-Inspeções preventivas programadas para identificar aquecimento, desgaste e falhas de componentes, e atendimento corretivo quando algo falha. O plano é adaptado à rotina e à criticidade do local.
+Fazemos inspeções preventivas periódicas, como as semanais, conforme o plano, para identificar possíveis problemas, aquecimento, desgaste ou falhas de componentes, e atendimento corretivo quando algo falha. O plano é personalizado, adaptado à rotina e à criticidade de cada cliente.
 
 P: Atendem condomínios em emergência?
 Sim, 24 horas. Já restabelecemos a energia de um condomínio à noite, depois de um furto de cabos, em 4 horas.
 
 P: Quem é o responsável técnico?
-Técnico eletricista com registro no CRT. O TRT é emitido nos serviços que exigem, e a equipe tem capacitação em NR-10 e NR-35.
+Ronaldo Casotti Ribeiro é o responsável técnico da Elétrica Conexão Vix. Ele é técnico eletricista com registro ativo no Conselho Regional dos Técnicos Industriais (CRT). Nos serviços que exigem, é emitido o TRT (Termo de Responsabilidade Técnica). A equipe é capacitada em NR-10 (segurança em serviços com eletricidade) e NR-35 (trabalho em altura).
 
 P: Atendem eventos e instalações temporárias?
-Sim. Planejamos pontos de energia, distribuição temporária e suporte à montagem para feiras, eventos e operações provisórias, conforme carga e tempo de uso.
+Sim. Planejamos os pontos de energia e a distribuição elétrica temporária para feiras, eventos e operações provisórias, de acordo com a carga dos equipamentos e o tempo de uso. Damos suporte durante a montagem e ficamos de plantão durante todo o evento para fazer ajustes e atender a eventuais falhas elétricas.
+
+P: Vocês fazem manutenção preventiva e corretiva por contrato?
+Sim. O contrato tem valor fixo mensal e visitas regulares de inspeção, com atendimento corretivo quando algo falha, inclusive à noite e em feriados.
+
+### Leia também
+
+### Manutenção elétrica em condomínio: checklist do síndico
+O condomínio deve manter um programa de manutenção com registros (ABNT NBR 5674), revisar quadros e circuitos e inspecionar o para-raios (SPDA) com relatório. A nova NR-10, publicada em junho de 2026, entra em vigor um ano depois e passa a exigir DR em circuitos de edificações não residenciais.
+
+### Projeto elétrico e de iluminação com arquitetos e engenheiros: como funciona na obra
+Como o eletricista trabalha com o projeto de arquitetos e engenheiros: compatibilização, quadro de cargas, iluminação, execução por etapas e entrega.
+
+### Carregador de carro elétrico no prédio: o que diz a lei do ES e a NBR 17019
+No Espírito Santo, a Lei 12.857/2026 garante ao morador instalar, por conta própria, um carregador na sua vaga, com comunicação prévia ao condomínio, instalação por profissional habilitado e respeito às normas da ABNT e da distribuidora. O condomínio pode definir padrões técnicos, mas só pode recusar com justificativa técnica ou de segurança documentada.
 
 ### Peça uma proposta para o seu local.
 Conte o que precisa, o endereço e o prazo.
@@ -190,7 +252,7 @@ Avaliamos o seu quadro, dimensionamos o circuito dedicado e instalamos com teste
 - Instalação e testes
 - Conforme a ABNT NBR 17019 e a NBR 5410
 
-### Carregadores instalados
+### Instalação de carregador para veículos elétricos
 Residências, condomínios, empresas e estacionamentos comerciais.
 
 ### Como fazemos
@@ -214,17 +276,47 @@ Em geral é preciso comunicar o condomínio. Orientamos o que o síndico costuma
 P: Quanto custa instalar um carregador?
 Depende do equipamento, da distância até o quadro e da capacidade da instalação. Enviamos a proposta depois da avaliação.
 
-### Quer carregar o carro em casa?
-Conte onde vai instalar e mande uma foto do quadro.
+P: Posso carregar o carro elétrico em uma tomada comum?
+A tomada comum foi pensada para uso de minutos, e a recarga de um carro elétrico mantém o circuito carregado por horas. O caminho mais seguro é um carregador de parede (wallbox) em circuito dedicado, com proteções dimensionadas. Veja o artigo sobre wallbox ou tomada comum.
 
-## Projeto elétrico e revisão preventiva
+P: Você carrega a bateria da sua bicicleta elétrica dentro de casa ou do apartamento?
+Não ligue o carregador em qualquer tomada. Antes da recarga, é preciso verificar se a tensão é compatível com o carregador e se a tomada, a fiação e o disjuntor do circuito são adequados à carga.
+Na Elétrica Conexão Vix, avaliamos a instalação com base na ABNT NBR 5410 e, quando necessário, instalamos uma tomada dedicada, com cabos e proteção dimensionados para esse uso.
+Na hora de carregar, use o carregador indicado pelo fabricante e siga as orientações de recarga da bateria.
+
+### Leia também
+
+### Carregar carro elétrico em tomada comum ou em wallbox? O que muda na segurança
+Dá para carregar carro elétrico em tomada comum? Entenda a diferença entre carregador portátil e wallbox, os riscos, o mínimo de segurança e as regras em condomínio.
+
+### Quanto custa instalar carregador de carro elétrico em casa? O que entra no orçamento
+O que faz o preço da instalação de carregador de carro elétrico mudar: distância do quadro, potência, cabos, proteções, obra e condomínio. Veja como pedir um orçamento certo.
+
+### Tempo de recarga do carro elétrico em casa: potência do wallbox, 7 kW e o que o quadro aguenta
+Quanto tempo leva para carregar um carro elétrico em casa? Veja a conta do tempo de recarga, as potências do wallbox e o que o quadro e a fiação precisam suportar.
+
+### Quer carregar seus veículos elétricos em casa?
+Conte onde vai instalar e mande fotos do quadro e da vaga.
+
+## Projetos elétricos e de iluminação, e revisão preventiva
 URL: https://eletricistaemvitoria.com.br/projetos-revisoes/
-Resposta rápida: Fazemos projeto elétrico sob medida e revisão preventiva para casas, condomínios, empresas e indústrias em Vitória. Levantamos as condições existentes, dimensionamos circuitos e proteções, montamos e identificamos quadros e entregamos um relatório do que foi encontrado, com recomendações. O TRT é emitido nos serviços que exigem, com técnico registrado no CRT.
-Antes de reformar, ampliar ou aumentar a carga, a instalação precisa aguentar. Projetamos sob medida e revisamos o que já existe para evitar curto e prejuízo.
+Resposta rápida: Fazemos projeto elétrico e de iluminação sob medida e executamos projetos de arquitetos e engenheiros, de casas a obras de empresas, lojas e indústrias em Vitória. Levantamos as condições existentes, dimensionamos circuitos e proteções, montamos os quadros e entregamos relatório do que foi encontrado. O TRT é emitido nos serviços que exigem.
+Antes de reformar, ampliar ou instalar novos equipamentos, a instalação precisa aguentar. Projetamos sob medida, executamos o projeto de arquitetos e engenheiros e revisamos o que já existe para evitar curto e prejuízo.
 - Levantamento das condições existentes
 - Dimensionamento de circuitos e proteções
 - Montagem e identificação de quadros
 - Relatório do que foi encontrado e recomendações
+
+### Projetos com arquitetos, engenheiros e empresas
+Vai reformar, ampliar o imóvel ou instalar novos equipamentos? Antes de começar, é importante verificar se a instalação elétrica comporta a nova demanda. Na Elétrica Conexão Vix, avaliamos a rede existente e projetamos as adequações necessárias para reduzir o risco de sobrecargas, falhas e prejuízos.
+Trabalhamos junto com arquitetos e engenheiros: recebemos o projeto, avaliamos a viabilidade na obra, tiramos as dúvidas antes da execução e entregamos do início ao fim. Também atendemos projetos maiores, de empresas, lojas e condomínios, inclusive a parte de iluminação.
+
+### O que entra
+- Projeto elétrico e de iluminação sob medida
+- Execução do projeto de arquitetos e engenheiros
+- Obras de empresas, lojas e condomínios
+- Quadros dimensionados, montados e identificados
+- Diagnóstico antes do orçamento e serviço com responsabilidade técnica
 
 ### Quadros montados e identificados
 
@@ -241,6 +333,23 @@ Sim, nos serviços que exigem, sob responsabilidade de técnico eletricista com 
 
 P: Atendem empresas e indústrias?
 Sim. Montamos e adequamos quadros de comando e distribuição e fazemos revisões programadas.
+
+P: Vocês trabalham com arquitetos e engenheiros?
+Sim. Recebemos o projeto, avaliamos a viabilidade na obra, tiramos as dúvidas com o responsável antes de executar e entregamos do início ao fim, de casas a obras de empresas e lojas.
+
+P: Vocês fazem projeto de iluminação?
+Sim. Planejamos pontos, tipo de luminária, comandos e circuitos de iluminação junto com o projeto elétrico, para residências, lojas, escritórios e áreas externas.
+
+### Leia também
+
+### Projeto elétrico e de iluminação com arquitetos e engenheiros: como funciona na obra
+Como o eletricista trabalha com o projeto de arquitetos e engenheiros: compatibilização, quadro de cargas, iluminação, execução por etapas e entrega.
+
+### Projeto de iluminação LED: como planejar pontos, temperatura de cor e fita de LED
+Como planejar a iluminação LED de casa, loja ou escritório: camadas de luz, temperatura de cor, fita de LED com fonte, áreas externas e o que prever na parte elétrica.
+
+### Fiação antiga: sinais de que é hora de trocar (e quem paga no aluguel)
+Lâmpada piscando, tomada quente, cheiro de queimado ou disjuntor desarmando? Veja os sinais de fiação antiga, se ela aumenta a conta de luz e quem paga a troca.
 
 ### Vai reformar ou aumentar a carga?
 Fale com a gente antes de começar.
@@ -310,6 +419,181 @@ Chuveiro que desarma o disjuntor quase sempre indica circuito subdimensionado (f
 
 ### Manutenção elétrica em condomínio: checklist do síndico
 O condomínio deve manter um programa de manutenção com registros (ABNT NBR 5674), revisar quadros e circuitos e inspecionar o para-raios (SPDA) com relatório. A nova NR-10, publicada em junho de 2026, entra em vigor um ano depois e passa a exigir DR em circuitos de edificações não residenciais.
+
+## Carregar carro elétrico em tomada comum ou em wallbox? O que muda na segurança
+URL: https://eletricistaemvitoria.com.br/blog/carregar-carro-eletrico-em-tomada-comum-ou-wallbox/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+Dá para carregar em tomada comum com o carregador portátil, mas ela foi pensada para uso curto, e a recarga mantém o circuito sob carga por horas. O wallbox, em circuito dedicado e com proteções, é a opção mais segura. Antes de qualquer das duas, um eletricista deve avaliar fiação e disjuntor.
+
+### Carregador portátil e wallbox: a diferença
+Há duas formas comuns de recarregar em casa. O carregador portátil é o cabo, geralmente fornecido com o carro, que tem uma caixa de controle e plugue de tomada (conhecido como modo 2). O wallbox é um carregador fixo na parede, ligado a um circuito próprio, com mais proteções e potência (modo 3). O portátil não substitui o wallbox, que reúne mais recursos de proteção.
+
+### Por que a tomada comum é o ponto fraco
+A tomada de casa foi pensada para uso de minutos, e a recarga de um carro elétrico mantém a corrente alta por horas. Conexões frouxas, tomada velha, fiação fina ou sem aterramento esquentam com o tempo. Muitas vezes a tomada existente não serve, e a solução é instalar um wallbox. Alguns condomínios e órgãos de segurança contra incêndio fazem restrições a carregador ligado em tomada em garagem coletiva, então vale conferir as regras do seu prédio.
+
+### Se for usar tomada, o mínimo é isto
+- Circuito exclusivo para o carregador, sem dividir com outros aparelhos.
+- Cabo na bitola adequada ao circuito e à distância até o quadro.
+- Aterramento e proteção com DR.
+- Tomada de boa qualidade, em bom estado e firme, sem folga no plugue.
+- Nunca usar extensão, benjamin ou régua de tomadas.
+- Conferir se o plugue ou a tomada esquentam durante a recarga.
+
+### Qual escolher
+O wallbox em circuito dedicado é a opção mais segura e costuma ser mais rápida. A tomada pode servir como solução provisória, desde que o circuito esteja adequado e tenha sido avaliado por um profissional. A instalação segue a ABNT NBR 17019, para locais de recarga de veículos elétricos, usada junto com a NBR 5410.
+
+### E no condomínio?
+Em geral é preciso comunicar o condomínio, e o prédio pode pedir responsável técnico e estudo de carga. Leia também o nosso artigo sobre carregador de carro elétrico em condomínio.
+Vai carregar o carro elétrico em casa? Peça a avaliação do quadro e da vaga e instale com segurança.
+
+### Perguntas frequentes
+
+P: Posso usar extensão para carregar o carro elétrico?
+Não. Extensão e benjamin não são feitos para correntes altas por horas e esquentam. O carregador deve ligar direto no ponto adequado.
+
+P: Tomada de 20 A é suficiente para o carregador?
+Depende do carregador, do fio e do disjuntor do circuito. Só uma avaliação no local responde com segurança.
+
+P: O carregador que veio com o carro pode ser usado?
+Em geral é o portátil. Ele pode ser usado num circuito adequado, mas não oferece o mesmo conjunto de proteções que um wallbox.
+
+P: Preciso avisar o condomínio antes de instalar?
+Em geral sim. O condomínio pode exigir projeto, responsável técnico e cumprimento de regras da garagem.
+
+### Fontes
+- Carregador em casa: custos, riscos e erros comuns, Canal VE
+- Quanto custa instalar um wallbox, Canaltech
+- Como funciona a instalação em casa, Olhar Digital
+
+### Outros artigos
+
+### Quanto custa instalar carregador de carro elétrico em casa? O que entra no orçamento
+O que faz o preço da instalação de carregador de carro elétrico mudar: distância do quadro, potência, cabos, proteções, obra e condomínio. Veja como pedir um orçamento certo.
+
+### Tempo de recarga do carro elétrico em casa: potência do wallbox, 7 kW e o que o quadro aguenta
+Quanto tempo leva para carregar um carro elétrico em casa? Veja a conta do tempo de recarga, as potências do wallbox e o que o quadro e a fiação precisam suportar.
+
+### Carregador de carro elétrico no prédio: o que diz a lei do ES e a NBR 17019
+No Espírito Santo, a Lei 12.857/2026 garante ao morador instalar, por conta própria, um carregador na sua vaga, com comunicação prévia ao condomínio, instalação por profissional habilitado e respeito às normas da ABNT e da distribuidora. O condomínio pode definir padrões técnicos, mas só pode recusar com justificativa técnica ou de segurança documentada.
+
+## Cheiro de queimado na tomada: o que fazer agora e quando chamar um eletricista 24 horas
+URL: https://eletricistaemvitoria.com.br/blog/cheiro-de-queimado-na-tomada-o-que-fazer/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 5 min de leitura
+Resposta rápida
+Cheiro de queimado na tomada é emergência elétrica: desligue o disjuntor do circuito ou o geral, se for seguro, não use o ponto e chame um eletricista. Se houver fogo ou fumaça, saia do local e ligue 193 (Bombeiros). Não jogue água na instalação nem insista em religar.
+
+### O que fazer nos primeiros minutos
+- Se houver fogo ou fumaça espessa, saia do local e ligue 193 (Corpo de Bombeiros).
+- Sem fogo, desligue o disjuntor do circuito. Se não souber qual é, desligue o disjuntor geral.
+- Faça isso com as mãos secas e sem pisar em chão molhado. Se o quadro estiver quente, com faísca ou em local úmido, não chegue perto.
+- Desconecte os aparelhos da tomada só depois de desligar o disjuntor.
+- Afaste crianças e animais e não volte a usar o ponto.
+- Chame um eletricista e, se for seguro, mande fotos da tomada e do quadro.
+
+### O que nunca fazer
+- Jogar água em tomada, fio ou quadro.
+- Religar o disjuntor várias vezes para “ver se volta”.
+- Tapar o problema com fita isolante e continuar usando.
+- Ignorar o cheiro porque “já passou”: o fio pode seguir esquentando dentro da parede.
+
+### Por que a tomada queima
+As causas mais comuns são mau contato, em que o fio ou a tomada estão frouxos e esquentam, e a sobrecarga, quando vários aparelhos ou um aparelho muito potente usam a mesma tomada, às vezes com benjamin ou extensão. Também pesam tomada de 10 A com aparelho de maior potência, fio fino demais, umidade e tomada antiga e ressecada.
+
+### Quando é emergência
+- Cheiro de queimado, tomada ou espelho derretido ou escurecido.
+- Faísca ao ligar ou desligar aparelhos.
+- Tomada, fio ou quadro quentes ao toque.
+- Disjuntor que desarma de novo logo depois de religar.
+- Choque ao encostar em aparelho ou torneira.
+Em todos esses casos, o atendimento não deve esperar o dia seguinte. A Elétrica Conexão Vix atende 24 horas, todos os dias, em Vitória, Vila Velha e Serra.
+
+### Como evitar que aconteça
+Evite benjamins e extensões em aparelhos de maior potência, troque tomadas velhas ou frouxas, não use aparelho que esquente o plugue e faça uma revisão elétrica se a casa tem muitos anos. A revisão confere quadro, proteções, aterramento e o estado das emendas antes que virem um problema.
+Cheiro de queimado, faísca ou tomada quente? Chame agora, a qualquer hora, e mande fotos se for seguro.
+
+### Perguntas frequentes
+
+P: Cheiro de queimado na tomada pode esperar até amanhã?
+Não. O cheiro indica aquecimento, e o aquecimento pode evoluir para fogo dentro da parede. Desligue o circuito e chame um eletricista.
+
+P: Posso continuar usando a tomada se ela só esquentou?
+Não. Tomada quente indica mau contato ou sobrecarga. Pare de usar o ponto até uma avaliação.
+
+P: Tomada derretida só precisa de uma tomada nova?
+Nem sempre. O fio e a conexão também podem ter sido danificados, e a causa precisa ser corrigida para não repetir.
+
+P: Como se apaga um princípio de incêndio elétrico?
+Não use água. Se o fogo for pequeno e você souber usar, um extintor de CO2 ou de pó adequado a equipamentos elétricos serve. Na dúvida, saia do local e ligue 193.
+
+### Outros artigos
+
+### Faltou luz só na sua casa? Veja se é caso da EDP ou de eletricista
+Se os vizinhos têm luz e só o seu imóvel apagou, o problema costuma estar do medidor para dentro, que é responsabilidade do morador, e o caminho é chamar um eletricista. Se a rua inteira apagou, quem resolve é a EDP. Disjuntor que cai de novo, cheiro de queimado, faísca ou fio quente são emergência: desligue o disjuntor geral e chame um profissional.
+
+### Levando choque na torneira, no chuveiro ou na geladeira? Aterramento e DR explicados
+Choquinho em torneira, chuveiro ou geladeira indica fuga de corrente. Entenda o que é aterramento e DR, o que a NBR 5410 prevê e por que não deve esperar.
+
+### Tomada de 10A ou 20A: qual a diferença e onde usar cada uma
+Tomada 10A ou 20A? Veja a diferença no pino, a potência que cada uma suporta, onde usar e por que trocar só a tomada pode não resolver.
+
+## Levando choque na torneira, no chuveiro ou na geladeira? Aterramento e DR explicados
+URL: https://eletricistaemvitoria.com.br/blog/choque-na-torneira-chuveiro-geladeira-aterramento-dr/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+Choque na torneira, no chuveiro ou na geladeira indica fuga de corrente: falta de aterramento, isolamento danificado ou fiação com defeito. Pare de usar o equipamento, desligue o disjuntor e chame um eletricista. O DR protege contra choque, mas não substitui o fio terra.
+
+### O que é esse “choquinho”
+Quando você encosta numa torneira metálica, na porta da geladeira ou no chuveiro e sente um formigamento ou um choque, existe uma corrente escapando do circuito e passando por uma parte metálica que deveria estar sem tensão. Essa corrente de fuga procura o caminho mais fácil até a terra, e esse caminho pode ser o seu corpo.
+
+### Aterramento: o papel do fio terra
+O fio terra liga a carcaça metálica dos aparelhos a um sistema de aterramento. Se algo falha dentro do aparelho e a carcaça fica energizada, a corrente tem um caminho seguro até a terra e o dispositivo de proteção desliga o circuito. Sem o fio terra, a carcaça fica “viva” e quem encostar leva o choque. O fio terra tem cobertura verde ou verde e amarela, e não pode ser ligado ao neutro por conta própria.
+
+### DR: o dispositivo que desliga o choque
+O DR (dispositivo diferencial residual) compara a corrente que entra com a que volta. Se parte dela escapa, ele desliga o circuito em instantes. Os DRs de alta sensibilidade, de até 30 mA, existem justamente para proteger pessoas. A NBR 5410, norma das instalações elétricas de baixa tensão, exige essa proteção em circuitos de locais com chuveiro e banheira, e também de áreas externas e de locais molhados, como cozinhas e áreas de serviço.
+O DR atua quando a corrente já escapou, e por isso não substitui o aterramento. Os dois trabalham juntos.
+
+### Como testar o DR
+O DR tem um botão de teste, marcado com a letra T. Ao apertá-lo, o dispositivo deve desligar na hora. Fazer esse teste periodicamente mostra se ele ainda está funcionando. Se não desligar, chame um eletricista: ele não está protegendo você.
+
+### O que fazer agora se está levando choque
+- Pare de usar o equipamento ou a torneira que dá choque.
+- Desligue o disjuntor do circuito, se for seguro.
+- Não tente consertar sozinho nem “puxar” um fio para a parede.
+- Chame um eletricista para medir a fuga, conferir o aterramento e o DR.
+Em casas antigas, é comum não haver fio terra ou DR. O eletricista avalia o quadro e os circuitos e propõe a adequação.
+Levando choque em casa? Não espere piorar. Fale com a gente e mande fotos do quadro.
+
+### Perguntas frequentes
+
+P: Choquinho leve é perigoso?
+Pode ser. Ele mostra que existe fuga de corrente, e a mesma falha pode, em outra situação, causar um choque grave. Não vale esperar.
+
+P: Posso ligar o fio terra no neutro?
+Não faça isso por conta própria. Terra e neutro têm funções diferentes, e a ligação errada coloca você e a instalação em risco. Peça a um eletricista.
+
+P: Casa antiga sem fio terra tem solução?
+Sim. O eletricista avalia a instalação, executa o aterramento e instala o DR nos circuitos necessários.
+
+P: Todo circuito precisa de DR?
+A NBR 5410 exige DR em circuitos de locais com chuveiro, áreas externas e locais molhados, como cozinhas e áreas de serviço. Em casa, o mais seguro é proteger todos os circuitos.
+
+### Fontes
+- NBR 5410 em banheiros, O Setor Elétrico
+
+### Outros artigos
+
+### Chuveiro desarmando o disjuntor: causas e o que fazer
+Chuveiro que desarma o disjuntor quase sempre indica circuito subdimensionado (fio fino ou disjuntor incompatível com a potência), conexão com mau contato ou fuga de corrente detectada pelo DR. Trocar só o disjuntor por um maior, sem trocar o fio, aumenta o risco de incêndio.
+
+### Fiação antiga: sinais de que é hora de trocar (e quem paga no aluguel)
+Lâmpada piscando, tomada quente, cheiro de queimado ou disjuntor desarmando? Veja os sinais de fiação antiga, se ela aumenta a conta de luz e quem paga a troca.
+
+### Cheiro de queimado na tomada: o que fazer agora e quando chamar um eletricista 24 horas
+Cheiro de queimado, tomada quente ou faísca? Veja o que fazer nos primeiros minutos, o que nunca fazer e quando é emergência para chamar um eletricista 24 horas.
 
 ## Chuveiro desarmando o disjuntor: causas e o que fazer
 URL: https://eletricistaemvitoria.com.br/blog/chuveiro-desarmando-disjuntor/
@@ -421,7 +705,7 @@ Na pressa, vale conferir quatro coisas: registro profissional (técnico com regi
 Desconfie de quem se apresenta como “técnico da EDP” cobrando no portão. A distribuidora não faz cobrança desse jeito, e há golpes registrados com o nome dela.
 
 ### Atendimento 24 horas na Grande Vitória
-A Elétrica Conexão Vix atende 24 horas, todos os dias, com base no Itararé. Isso deixa a equipe perto de Santos Dumont, Santo André, São Pedro, Bonfim, Maruípe e Santa Cecília, e atende toda Vitória, Vila Velha e Serra.
+A Elétrica Conexão Vix atende 24 horas, todos os dias, no local do cliente, em toda Vitória, Vila Velha e Serra.
 Para agilizar, mande no WhatsApp o endereço, o que aconteceu e, se puder, uma foto do quadro.
 A luz apagou e não é a rua? Chame o atendimento 24h e mande a foto do quadro.
 
@@ -452,6 +736,65 @@ O condomínio deve manter um programa de manutenção com registros (ABNT NBR 56
 
 ### Obra elétrica de loja em shopping: documentos, normas e etapas
 A obra elétrica de loja em shopping segue o manual técnico do empreendimento, a NBR 5410 e a NR-10, e precisa de responsável técnico com documento de responsabilidade (TRT ou ART). Os maiores riscos de atraso são projeto não aprovado, carga incompatível com o que o shopping libera e equipe sem documentação de segurança.
+
+## Fiação antiga: sinais de que é hora de trocar (e quem paga no aluguel)
+URL: https://eletricistaemvitoria.com.br/blog/fiacao-antiga-quando-trocar-e-quem-paga/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+A fiação antiga deve ser avaliada quando há lâmpadas piscando, tomadas quentes, cheiro de queimado, disjuntor desarmando ou faíscas. Ela não costuma encarecer muito a conta de luz, mas aquece, falha e pode causar incêndio. Em imóvel alugado, quem paga depende da causa do problema e do contrato.
+
+### Sinais de que a instalação precisa de atenção
+- Lâmpadas que piscam ou mudam de intensidade.
+- Tomadas ou plugues que esquentam quando usados.
+- Cheiro de queimado em tomadas ou interruptores.
+- Disjuntores que desarmam com frequência.
+- Faíscas ao ligar ou desligar aparelhos.
+- Fios com a cobertura ressecada, rachada ou escurecida, quando visíveis.
+- Choques leves ao encostar em torneiras e aparelhos.
+Um ou mais desses sinais justificam chamar um eletricista, principalmente em imóvel com muitos anos de uso.
+
+### Fiação antiga aumenta a conta de luz?
+Esse é um mito comum. O consumo da conta vem dos aparelhos, e a fiação em si não costuma pesar nela. O problema da fiação velha ou subdimensionada é outro: ela esquenta, perde a isolação e pode falhar. Fio com bitola menor do que a necessária aquece e gera risco de curto-circuito.
+
+### Por que a instalação antiga não acompanha a casa de hoje
+Muitas instalações foram feitas quando a casa tinha poucos aparelhos. Hoje entram ar-condicionado, chuveiro elétrico, fritadeira, forno elétrico e até carregador de veículo. Sem circuitos separados, sem fio terra e sem DR, a casa fica no limite. A revisão avalia o quadro, os circuitos, as proteções e o aterramento para dizer o que precisa mudar.
+
+### Troca total ou adequação parcial?
+Depende do que a revisão encontrar. Algumas casas precisam de troca de fiação e de quadro. Outras precisam só de ajustes, como circuitos dedicados para os aparelhos mais pesados, DR e organização do quadro. Em imóveis mais antigos, vale revisar a instalação de tempos em tempos, e não só quando algo dá problema.
+
+### Inquilino ou proprietário: quem paga?
+A Lei do Inquilinato (Lei 8.245/1991) divide as responsabilidades. Em geral, problemas que já existiam antes da locação e o desgaste da instalação ficam com o proprietário, e danos causados pelo uso inadequado ficam com o inquilino. Na prática, depende do contrato e da causa do problema. Um laudo ou relatório de revisão ajuda a documentar a origem. Esta é uma orientação geral, e não substitui a opinião de um advogado.
+Casa antiga ou com sinais de problema? Peça uma revisão elétrica, com relatório do que foi encontrado.
+
+### Perguntas frequentes
+
+P: Quanto tempo dura a fiação elétrica?
+Não há um prazo único: depende do material, da carga, da umidade e da qualidade da instalação. Por isso a revisão periódica vale mais do que contar anos.
+
+P: Dá para trocar a fiação sem quebrar a parede?
+Em alguns casos, sim, quando os eletrodutos existentes permitem passar cabos novos ou quando se usam canaletas. O eletricista avalia no local.
+
+P: Vale trocar só o quadro de luz?
+Ajuda, mas não resolve fios velhos ou subdimensionados. O ideal é avaliar quadro, circuitos e aterramento juntos.
+
+P: A revisão elétrica gera algum documento?
+Sim. Entregamos um relatório com o que foi encontrado e as recomendações, e emitimos o TRT nos serviços que exigem.
+
+### Fontes
+- Sinais de instalação elétrica a reformar, Cronoshare
+- Bitola do cabo e aquecimento, A Gazeta
+
+### Outros artigos
+
+### Tomada de 10A ou 20A: qual a diferença e onde usar cada uma
+Tomada 10A ou 20A? Veja a diferença no pino, a potência que cada uma suporta, onde usar e por que trocar só a tomada pode não resolver.
+
+### Levando choque na torneira, no chuveiro ou na geladeira? Aterramento e DR explicados
+Choquinho em torneira, chuveiro ou geladeira indica fuga de corrente. Entenda o que é aterramento e DR, o que a NBR 5410 prevê e por que não deve esperar.
+
+### Quanto custa um eletricista? O que faz o valor mudar
+Visita, troca de tomada, urgência à noite, material e responsabilidade técnica: veja o que entra no preço de um eletricista e como comparar orçamentos.
 
 ## Manutenção elétrica em condomínio: checklist do síndico
 URL: https://eletricistaemvitoria.com.br/blog/manutencao-eletrica-condominio-checklist/
@@ -586,3 +929,353 @@ Chuveiro que desarma o disjuntor quase sempre indica circuito subdimensionado (f
 
 ### Manutenção elétrica em condomínio: checklist do síndico
 O condomínio deve manter um programa de manutenção com registros (ABNT NBR 5674), revisar quadros e circuitos e inspecionar o para-raios (SPDA) com relatório. A nova NR-10, publicada em junho de 2026, entra em vigor um ano depois e passa a exigir DR em circuitos de edificações não residenciais.
+
+## Projeto de iluminação LED: como planejar pontos, temperatura de cor e fita de LED
+URL: https://eletricistaemvitoria.com.br/blog/projeto-de-iluminacao-led-casa-e-comercio/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+Um bom projeto de iluminação LED combina o tipo de luz de cada ambiente, a temperatura de cor, a posição dos pontos e circuitos separados para dimerizar e criar cenas. Fita de LED costuma precisar de fonte, e áreas externas pedem luminárias com proteção contra água e poeira.
+
+### Pense em camadas de luz
+Um ambiente bem iluminado raramente depende de uma luz só. O projeto combina a iluminação geral, que dá a base, a iluminação de tarefa, como a bancada da cozinha ou a mesa de trabalho, e a de destaque, que valoriza quadros, nichos e fachadas. Cada camada tem o seu circuito, para ligar e dimerizar separadamente.
+
+### Temperatura de cor: quente, neutra ou fria
+- Cerca de 2700 a 3000 K (luz quente): aconchego, usada em sala e quarto.
+- Cerca de 4000 K (luz neutra): mais clareza, comum em cozinha, escritório e lojas.
+- 5000 K ou mais (luz fria): ambientes técnicos e de trabalho de precisão.
+Evite misturar temperaturas diferentes no mesmo ambiente sem intenção, porque as luminárias parecem de “marcas” diferentes.
+
+### Lúmens, IRC e selo de qualidade
+Compare luminárias pelos lúmens, que medem a luz emitida, e não pelos watts. O IRC indica a fidelidade das cores: em lojas, escritórios e áreas de maquiagem, vale buscar IRC alto. Prefira produtos com selo do Inmetro, já que a qualidade da fonte (driver) e a dissipação de calor pesam na durabilidade.
+
+### Fita de LED precisa de fonte?
+A maior parte das fitas de uso residencial funciona em baixa tensão (12 V ou 24 V) e precisa de uma fonte do tamanho certo, com uma folga de potência sobre o consumo da fita. Também convém instalá-la em perfil de alumínio, que ajuda a dissipar o calor, e escolher dimmer compatível. Existem fitas que funcionam direto em 127 ou 220 V, com a eletrônica embutida, mas exigem cuidado na instalação e na proteção.
+
+### Áreas externas, piscina e fachadas
+Luminárias externas precisam de proteção contra água e poeira (grau IP adequado). Piscinas têm regras específicas na NBR 5410 e devem ser feitas por profissional. A iluminação de fachada e de balizamento, como a das obras que mostramos nas páginas de serviço, também deve ter circuitos protegidos por DR.
+
+### Comércio e escritório
+Em ambientes de trabalho, os níveis de iluminação seguem a norma ABNT NBR ISO/CIE 8995-1. Em lojas, a luz também ajuda a vender: destaque para a vitrine, o produto e a circulação. A parte elétrica precisa prever circuitos, comandos e acesso para manutenção.
+Quer planejar a iluminação da casa, loja ou escritório? Conte o projeto e envie fotos do local.
+
+### Perguntas frequentes
+
+P: Fita de LED precisa de fonte?
+Na maioria dos casos, sim. As fitas de 12 V ou 24 V precisam de uma fonte compatível, com folga de potência. Algumas fitas têm a eletrônica embutida e ligam direto na rede, mas pedem mais cuidado.
+
+P: Qual temperatura de cor usar na cozinha?
+Costuma-se usar luz neutra, por volta de 4000 K, para enxergar bem a bancada. A escolha depende do gosto e dos acabamentos.
+
+P: Dá para trocar a iluminação do forro sem quebrar tudo?
+Depende. Spots embutidos exigem furo e passagem de fiação, e o eletricista avalia o forro e a infraestrutura existente antes.
+
+P: LED barato queima rápido?
+Pode queimar, porque a qualidade da fonte e a dissipação de calor mudam muito. Prefira produtos com selo do Inmetro.
+
+### Outros artigos
+
+### Projeto elétrico e de iluminação com arquitetos e engenheiros: como funciona na obra
+Como o eletricista trabalha com o projeto de arquitetos e engenheiros: compatibilização, quadro de cargas, iluminação, execução por etapas e entrega.
+
+### Obra elétrica de loja em shopping: documentos, normas e etapas
+A obra elétrica de loja em shopping segue o manual técnico do empreendimento, a NBR 5410 e a NR-10, e precisa de responsável técnico com documento de responsabilidade (TRT ou ART). Os maiores riscos de atraso são projeto não aprovado, carga incompatível com o que o shopping libera e equipe sem documentação de segurança.
+
+### Quanto custa um eletricista? O que faz o valor mudar
+Visita, troca de tomada, urgência à noite, material e responsabilidade técnica: veja o que entra no preço de um eletricista e como comparar orçamentos.
+
+## Projeto elétrico e de iluminação com arquitetos e engenheiros: como funciona na obra
+URL: https://eletricistaemvitoria.com.br/blog/projeto-eletrico-com-arquiteto-e-engenheiro/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+O eletricista que trabalha com arquitetos e engenheiros recebe o projeto, confere a viabilidade na obra, tira as dúvidas antes de executar e entrega a instalação conforme o desenhado. O ganho é evitar retrabalho: tomadas fora do lugar, quadro subdimensionado e iluminação diferente do projeto.
+
+### O que o projeto elétrico define
+O projeto elétrico organiza a instalação antes da obra. Ele define o quadro de cargas, os circuitos, o dimensionamento de cabos e proteções, a posição das tomadas e dos pontos de luz, a infraestrutura (eletrodutos e caixas) e, quando existe, a parte de dados e automação. A execução pelo eletricista é a ponte entre o desenho e a obra pronta.
+
+### Onde costuma dar problema
+- Cargas que entram depois, como ar-condicionado, cooktop, forno elétrico ou carregador de veículo, sem espaço e capacidade no quadro.
+- Forro de gesso ou parede fechados antes de a infraestrutura ser conferida.
+- Tomadas que não conversam com a marcenaria, atrás de móvel ou fora de altura útil.
+- Iluminação diferente da prevista no projeto luminotécnico.
+- Dúvidas que só aparecem na obra e ficam sem resposta.
+
+### Como é o trabalho em conjunto
+- Recebimento do projeto e visita à obra: conferimos o que está desenhado com o que existe no local.
+- Lista de dúvidas: levamos ao arquiteto ou engenheiro os pontos que precisam de decisão antes de executar.
+- Execução por etapas: infraestrutura, fiação, quadros e acabamento, no ritmo do cronograma da obra.
+- Testes e identificação: circuitos testados e quadros identificados.
+- Ajustes finais e registro: o que foi executado e o que mudou fica registrado.
+
+### Projetos maiores: empresas, lojas e condomínios
+Em obras maiores, o cronograma é apertado e várias equipes trabalham ao mesmo tempo. A parte elétrica precisa seguir as normas técnicas e as regras do local, como acontece nas lojas de shopping. Veja também como funciona a obra elétrica de loja em shopping.
+
+### A iluminação faz parte do projeto
+Pontos de espera, circuitos separados para dimerizar e acesso às fontes e drivers precisam estar previstos desde o início. Leia mais no artigo sobre projeto de iluminação LED.
+
+### O que enviar para orçar
+Plantas elétricas e de iluminação, quadro de cargas ou memorial, o prazo da obra, o endereço e fotos do local. Quanto mais completo o material, mais exata a proposta.
+Tem uma obra e precisa da parte elétrica executada? Mande o projeto, o prazo e o local.
+
+### Perguntas frequentes
+
+P: Vocês fazem o projeto elétrico ou só executam?
+Fazemos as duas coisas: projeto elétrico e de iluminação sob medida e execução do projeto de arquitetos e engenheiros.
+
+P: O eletricista pode alterar o projeto na obra?
+Só com alinhamento com o responsável pelo projeto. Mudanças de carga ou de circuito precisam ser validadas para manter a instalação segura.
+
+P: Há responsável técnico e documento da obra?
+Sim. A execução tem responsável técnico registrado no CRT, e o TRT é emitido nos serviços que exigem. Projetos de engenheiros seguem a documentação própria do profissional.
+
+P: Quando chamar o eletricista numa obra?
+O quanto antes: na fase de projeto ou antes de fechar paredes e forros. Isso evita retrabalho e atraso.
+
+### Outros artigos
+
+### Projeto de iluminação LED: como planejar pontos, temperatura de cor e fita de LED
+Como planejar a iluminação LED de casa, loja ou escritório: camadas de luz, temperatura de cor, fita de LED com fonte, áreas externas e o que prever na parte elétrica.
+
+### Obra elétrica de loja em shopping: documentos, normas e etapas
+A obra elétrica de loja em shopping segue o manual técnico do empreendimento, a NBR 5410 e a NR-10, e precisa de responsável técnico com documento de responsabilidade (TRT ou ART). Os maiores riscos de atraso são projeto não aprovado, carga incompatível com o que o shopping libera e equipe sem documentação de segurança.
+
+### Quanto custa um eletricista? O que faz o valor mudar
+Visita, troca de tomada, urgência à noite, material e responsabilidade técnica: veja o que entra no preço de um eletricista e como comparar orçamentos.
+
+## Quanto custa instalar carregador de carro elétrico em casa? O que entra no orçamento
+URL: https://eletricistaemvitoria.com.br/blog/quanto-custa-instalar-carregador-carro-eletrico-em-casa/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+O custo varia porque cada instalação é diferente: distância do quadro até a vaga, capacidade da entrada de energia, potência do carregador, cabos, proteções e obras. Por isso a Conexão Vix não tem preço de tabela: o valor vem depois da avaliação do quadro e do local.
+
+### O que forma o preço da instalação
+- O carregador: a marca, a potência e os recursos do equipamento.
+- O circuito dedicado: cabos, eletrodutos e caixas até a vaga.
+- As proteções: disjuntor, DR e, quando necessário, DPS.
+- A distância entre o quadro e a vaga: quanto maior, mais cabo, mais obra e, às vezes, cabo de bitola maior.
+- A capacidade da instalação: o quadro e a entrada de energia podem precisar de adequação.
+- A obra: abrir parede ou piso, passar eletroduto, fixar o equipamento.
+- A mão de obra e a responsabilidade técnica: projeto, execução, testes e documento do serviço.
+
+### Por que a distância e a capacidade pesam tanto
+O circuito do carregador precisa suportar corrente alta durante horas. Se a vaga fica longe do quadro, o cabo precisa ser mais longo e, quando a potência é maior, mais grosso. Se o quadro e a entrada de energia já estão no limite com chuveiro, forno e ar-condicionado, é preciso avaliar o que fazer antes de somar o carregador.
+
+### Casa ou condomínio
+Em casa, o caminho costuma ser mais direto. No condomínio, a instalação envolve a garagem do prédio: em geral é preciso comunicar o síndico, e o condomínio pode exigir projeto, responsável técnico e estudo de carga. Em alguns prédios, o custo dessa infraestrutura coletiva é discutido em assembleia. Veja o artigo sobre carregador de carro elétrico em condomínio.
+
+### Como pedir um orçamento certo
+- Mande fotos do quadro de energia, do medidor e do local onde ficará o carregador.
+- Informe o modelo do carro e se a instalação é em casa ou condomínio.
+- Peça o escopo por escrito: o que está incluso (equipamento, cabos, proteções, obra, documento).
+- Compare propostas com o mesmo escopo, e não só o valor final.
+
+### E o custo de carregar?
+O gasto com a recarga vem da energia consumida: quilowatt-hora (kWh) multiplicado pela tarifa da sua distribuidora. Veja a conta em detalhe no artigo sobre tempo de recarga e potência do wallbox.
+Quer saber quanto vai custar? Mande fotos do quadro, do medidor e da vaga e peça a avaliação.
+
+### Perguntas frequentes
+
+P: Vocês têm preço de tabela para instalar carregador?
+Não. O valor depende do equipamento, da distância até o quadro e da capacidade da instalação. Enviamos a proposta depois da avaliação.
+
+P: Preciso trocar o padrão de entrada de energia?
+Nem sempre. Só a avaliação mostra se a entrada e o quadro suportam o carregador junto com o resto da casa.
+
+P: A instalação precisa de projeto?
+Depende da potência, da distância e do local. Em condomínio, é comum o prédio exigir projeto e responsável técnico.
+
+P: Quanto tempo leva a instalação?
+Depende da obra necessária e da distância até o quadro. Informamos o prazo na proposta, depois da avaliação.
+
+### Fontes
+- Custos e faixas citadas por especialistas, Canal VE
+- Tomada, wallbox e fiação, Despachante DOK
+- Fatores de custo e condomínio, Olhar Digital
+
+### Outros artigos
+
+### Carregar carro elétrico em tomada comum ou em wallbox? O que muda na segurança
+Dá para carregar carro elétrico em tomada comum? Entenda a diferença entre carregador portátil e wallbox, os riscos, o mínimo de segurança e as regras em condomínio.
+
+### Tempo de recarga do carro elétrico em casa: potência do wallbox, 7 kW e o que o quadro aguenta
+Quanto tempo leva para carregar um carro elétrico em casa? Veja a conta do tempo de recarga, as potências do wallbox e o que o quadro e a fiação precisam suportar.
+
+### Carregador de carro elétrico no prédio: o que diz a lei do ES e a NBR 17019
+No Espírito Santo, a Lei 12.857/2026 garante ao morador instalar, por conta própria, um carregador na sua vaga, com comunicação prévia ao condomínio, instalação por profissional habilitado e respeito às normas da ABNT e da distribuidora. O condomínio pode definir padrões técnicos, mas só pode recusar com justificativa técnica ou de segurança documentada.
+
+## Quanto custa um eletricista? O que faz o valor mudar
+URL: https://eletricistaemvitoria.com.br/blog/quanto-custa-um-eletricista-o-que-muda-o-valor/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 5 min de leitura
+Resposta rápida
+Não existe preço único: o valor de um eletricista depende do tipo de serviço, do diagnóstico, do material, da complexidade e do horário, já que atendimento noturno e de feriado costuma custar mais. Peça orçamento por escrito, com o que está incluído e a emissão de TRT, antes de aprovar.
+
+### O que entra no valor do serviço
+Quando duas pessoas pedem “a troca de uma tomada”, o serviço pode ser muito diferente: uma só substitui o espelho, a outra descobre fio queimado, tomada sem aterramento e circuito sem proteção. Por isso o preço sai do que o eletricista encontra, e não só do nome do serviço. Os fatores mais comuns:
+- Diagnóstico ou visita: ver o problema no local para dizer o que precisa ser feito.
+- Complexidade: trocar uma tomada é diferente de refazer um circuito ou um quadro.
+- Material: cabos, disjuntores, DR, tomadas e eletrodutos.
+- Horário e urgência: noite, madrugada e feriado mobilizam a equipe fora do expediente.
+- Local: altura, laje, forro fechado, edifício com regras de horário.
+- Responsabilidade técnica: serviços que exigem TRT ou ART têm esse documento no escopo.
+
+### Por que ninguém sério cobra “um número” sem ver
+Pesquisas de preço mostram faixas amplas porque o tamanho da casa, o número de pontos, a troca de fiação e a complexidade do trajeto mudam muito o serviço. Quem passa um valor fechado sem ver o local pode estar deixando itens de fora, como proteção, aterramento e o cabo na bitola certa, para o preço parecer baixo.
+
+### Como comparar orçamentos sem cair em armadilha
+Para comparar de verdade, os orçamentos precisam descrever o mesmo serviço. Peça por escrito:
+- O que será feito, ponto a ponto.
+- Se o material está incluso e de que tipo.
+- O prazo e como será o acesso ao local.
+- O registro do técnico e se haverá TRT ou ART.
+- O que não está incluído, para não aparecer cobrança depois.
+Preço muito abaixo dos demais merece uma pergunta: o que ficou de fora?
+
+### Emergência custa mais?
+Em geral, sim: atender de madrugada, em feriado ou com urgência envolve deslocar a equipe fora do horário e priorizar o seu chamado. O importante é saber o valor antes de aprovar. Na Elétrica Conexão Vix, o valor é informado antes do serviço, depois do diagnóstico, e nada começa sem a sua aprovação.
+
+### O que você pode fazer para o orçamento sair mais exato
+Mande fotos do quadro, do ponto com problema e do medidor, descreva o que acontece (disjuntor que cai, cheiro de queimado, tomada quente) e informe o endereço e o tipo de imóvel. Com isso, o eletricista consegue dizer se é um serviço simples ou se precisa de visita.
+Quer saber quanto vai custar o seu serviço? Mande fotos e o endereço. O valor é informado antes de começar.
+
+### Perguntas frequentes
+
+P: A visita do eletricista é cobrada?
+Depende de quem atende e do local. Pergunte antes se a visita tem custo e se o valor é abatido do serviço, para não ter surpresa.
+
+P: Eletricista cobra por hora ou por serviço?
+Os dois modelos existem. Serviço fechado dá previsibilidade, e por hora costuma servir para tarefas de escopo incerto. Em qualquer caso, peça o escopo por escrito.
+
+P: Preço muito baixo é sinal de problema?
+Pode ser. Confira se o material, a proteção, o aterramento e a responsabilidade técnica estão incluídos antes de comparar apenas o valor final.
+
+P: Vocês informam o valor antes de começar?
+Sim. O valor é informado antes da execução, depois do diagnóstico, e o serviço só começa depois da sua aprovação.
+
+### Fontes
+- Fatores que influenciam o preço de uma reforma elétrica, Cronoshare
+
+### Outros artigos
+
+### Cheiro de queimado na tomada: o que fazer agora e quando chamar um eletricista 24 horas
+Cheiro de queimado, tomada quente ou faísca? Veja o que fazer nos primeiros minutos, o que nunca fazer e quando é emergência para chamar um eletricista 24 horas.
+
+### Fiação antiga: sinais de que é hora de trocar (e quem paga no aluguel)
+Lâmpada piscando, tomada quente, cheiro de queimado ou disjuntor desarmando? Veja os sinais de fiação antiga, se ela aumenta a conta de luz e quem paga a troca.
+
+### Chuveiro desarmando o disjuntor: causas e o que fazer
+Chuveiro que desarma o disjuntor quase sempre indica circuito subdimensionado (fio fino ou disjuntor incompatível com a potência), conexão com mau contato ou fuga de corrente detectada pelo DR. Trocar só o disjuntor por um maior, sem trocar o fio, aumenta o risco de incêndio.
+
+## Tempo de recarga do carro elétrico em casa: potência do wallbox, 7 kW e o que o quadro aguenta
+URL: https://eletricistaemvitoria.com.br/blog/tempo-de-recarga-carro-eletrico-wallbox-potencia/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 6 min de leitura
+Resposta rápida
+O tempo de recarga é a energia que falta na bateria (kWh) dividida pela potência do carregador (kW), mais as perdas. Num wallbox de 7 kW, uma carga completa leva algumas horas e cabe numa noite. Potências maiores exigem cabos mais grossos e uma entrada de energia compatível.
+
+### A conta do tempo de recarga
+A conta é simples: tempo (horas) ≈ energia que falta na bateria (kWh) ÷ potência do carregador (kW), acrescentando algo como 10% de perdas. Exemplo: uma bateria de 60 kWh, indo de 20% a 100%, precisa de 48 kWh. Num carregador de 7 kW, são cerca de 6,9 horas, e com as perdas chegam a 7 ou 8 horas. É o tempo de uma noite.
+O exemplo é só uma ilustração: o tempo real depende da bateria do seu carro e da potência que ele aceita em corrente alternada.
+
+### Potências comuns de wallbox
+Os wallbox residenciais e comerciais de corrente alternada ficam, em geral, entre 7 e 22 kW. A potência de cerca de 7 kW é a mais comum em casa e costuma carregar um carro elétrico típico em 4 a 8 horas. Quanto maior a potência, maior a corrente e mais grosso precisa ser o cabo.
+
+### Na tomada comum, é bem mais lento
+Numa tomada comum, a potência é bem menor e a carga completa pode levar bem mais do que uma noite. Além do tempo, recargas muito lentas têm mais perdas de energia, e a tomada precisa estar aterrada e com a fiação adequada, ou pode superaquecer. Veja como comparar as duas opções em tomada comum ou wallbox.
+
+### O que o seu quadro precisa aguentar
+Não basta o carregador ser potente: a instalação toda precisa suportar a carga. Antes de instalar, o eletricista avalia:
+- A capacidade da entrada de energia e do disjuntor geral.
+- A soma das cargas que podem ligar juntas, como chuveiro, forno, ar-condicionado e o carregador.
+- A bitola dos cabos e o comprimento do circuito até a vaga.
+- Se potências maiores exigem uma alimentação compatível (como a trifásica).
+- O estado do quadro, das proteções e do aterramento.
+
+### Quando carregar e quanto custa a energia
+O custo de cada recarga é a energia consumida em kWh multiplicada pela tarifa da distribuidora. Como o carregamento em casa costuma ser longo, muita gente aproveita a noite. Consulte as condições e tarifas da sua distribuidora de energia.
+Quer saber qual potência faz sentido na sua casa? Peça a avaliação do quadro e da vaga.
+
+### Perguntas frequentes
+
+P: Quantas horas para carregar um carro elétrico em casa?
+Num wallbox de cerca de 7 kW, em geral de 4 a 8 horas para uma carga considerável. A conta exata depende da bateria e da potência que o carro aceita.
+
+P: Wallbox de 22 kW vale a pena em casa?
+Só se o carro aceitar essa potência em corrente alternada e a instalação suportar a carga. Muitos carros limitam a potência de recarga. Confira o manual e peça uma avaliação.
+
+P: Posso carregar o carro com o chuveiro ligado?
+Depende da capacidade da entrada de energia, do disjuntor geral e dos circuitos. A avaliação do quadro mede a carga total antes de instalar.
+
+P: O carregador rápido de corrente contínua serve para casa?
+Não costuma ser o caso. A recarga rápida em corrente contínua é usada em estações comerciais, e em casa o mais comum é o wallbox em corrente alternada.
+
+### Fontes
+- Potências de wallbox e bitola de cabo, Canaltech
+- Potência comum em casa e tempo de recarga, Despachante DOK
+- Exemplo de tempo de recarga e proteções, Olhar Digital
+
+### Outros artigos
+
+### Carregar carro elétrico em tomada comum ou em wallbox? O que muda na segurança
+Dá para carregar carro elétrico em tomada comum? Entenda a diferença entre carregador portátil e wallbox, os riscos, o mínimo de segurança e as regras em condomínio.
+
+### Quanto custa instalar carregador de carro elétrico em casa? O que entra no orçamento
+O que faz o preço da instalação de carregador de carro elétrico mudar: distância do quadro, potência, cabos, proteções, obra e condomínio. Veja como pedir um orçamento certo.
+
+### Carregador de carro elétrico no prédio: o que diz a lei do ES e a NBR 17019
+No Espírito Santo, a Lei 12.857/2026 garante ao morador instalar, por conta própria, um carregador na sua vaga, com comunicação prévia ao condomínio, instalação por profissional habilitado e respeito às normas da ABNT e da distribuidora. O condomínio pode definir padrões técnicos, mas só pode recusar com justificativa técnica ou de segurança documentada.
+
+## Tomada de 10A ou 20A: qual a diferença e onde usar cada uma
+URL: https://eletricistaemvitoria.com.br/blog/tomada-de-10a-ou-20a-qual-a-diferenca/
+Publicado em 2026-11-11, atualizado em 2026-11-11.
+Por equipe Elétrica Conexão Vix · 11 de novembro de 2026 · 4 min de leitura
+Resposta rápida
+A tomada de 10 A atende aparelhos de menor consumo, como abajur, carregador de celular e TV. A de 20 A é para aparelhos mais potentes, como micro-ondas, fritadeira elétrica e secador de cabelo, e tem pinos mais grossos. Antes de trocar uma tomada, é preciso conferir o fio e o disjuntor do circuito.
+
+### O que muda entre a tomada de 10 A e a de 20 A
+As duas seguem o padrão brasileiro de plugues e tomadas, a norma ABNT NBR 14136, com dois pinos e terra. A diferença está na corrente máxima e no tamanho dos pinos: os da tomada de 20 A são mais grossos, para suportar uma corrente maior sem esquentar. Por isso, um plugue de 20 A não entra numa tomada de 10 A.
+
+### Quanto cada uma suporta
+A potência vem da conta potência = tensão × corrente. Como limite teórico, uma tomada de 10 A suporta cerca de 1.270 W em 127 V e 2.200 W em 220 V. Já a de 20 A chega a cerca de 2.540 W em 127 V e 4.400 W em 220 V. Aparelhos que se aproximam desses valores pedem a tomada maior, num circuito feito para eles.
+
+### Onde usar cada uma
+- 10 A: abajur, TV, computador, carregadores e aparelhos de baixo consumo.
+- 20 A: micro-ondas, fritadeira elétrica, secador de cabelo e outros aparelhos que esquentam.
+Confira a potência no manual ou na etiqueta do aparelho. Se ela se aproxima do limite da tomada, o caminho é um circuito adequado, e não “dar um jeito”.
+
+### Trocar só a tomada resolve?
+Quase nunca. A tomada é só o ponto final: o fio do circuito e o disjuntor precisam suportar a corrente. Colocar uma tomada de 20 A num fio fino ou num circuito sem proteção adequada esconde o problema e aumenta o risco de aquecimento. O eletricista confere a bitola do cabo, o disjuntor e o estado das conexões antes de trocar.
+
+### Benjamin e extensão: o limite escondido
+O benjamin (o “T”) divide uma tomada em várias, mas a corrente continua passando por uma tomada só. A soma do consumo dos aparelhos ligados nele não pode ultrapassar a corrente da tomada, e um benjamin não deve ser ligado em outro. Aparelhos de maior potência devem ir direto na parede, nunca em benjamin ou extensão comprida.
+Tomada esquentando ou aparelho potente sem circuito adequado? Peça a avaliação do circuito.
+
+### Perguntas frequentes
+
+P: Plugue de 20 A entra numa tomada de 10 A?
+Não. Os pinos do plugue de 20 A são mais grossos e não entram na tomada de 10 A. Não force nem lime o plugue.
+
+P: Posso usar tomada de 20 A para tudo?
+A tomada de 20 A costuma aceitar também plugues de 10 A, mas só vale instalá-la se o fio e o disjuntor do circuito forem compatíveis.
+
+P: Micro-ondas precisa de tomada de 20 A?
+Muitos precisam. Veja a potência no manual e divida pela tensão da sua casa para saber a corrente. Se chegar perto de 10 A, use circuito e tomada de 20 A.
+
+P: Minha tomada esquenta. É normal?
+Não. Tomada quente indica mau contato ou sobrecarga. Pare de usar o ponto e chame um eletricista.
+
+### Fontes
+- Benjamin e carga nas tomadas, A Gazeta
+
+### Outros artigos
+
+### Cheiro de queimado na tomada: o que fazer agora e quando chamar um eletricista 24 horas
+Cheiro de queimado, tomada quente ou faísca? Veja o que fazer nos primeiros minutos, o que nunca fazer e quando é emergência para chamar um eletricista 24 horas.
+
+### Fiação antiga: sinais de que é hora de trocar (e quem paga no aluguel)
+Lâmpada piscando, tomada quente, cheiro de queimado ou disjuntor desarmando? Veja os sinais de fiação antiga, se ela aumenta a conta de luz e quem paga a troca.
+
+### Chuveiro desarmando o disjuntor: causas e o que fazer
+Chuveiro que desarma o disjuntor quase sempre indica circuito subdimensionado (fio fino ou disjuntor incompatível com a potência), conexão com mau contato ou fuga de corrente detectada pelo DR. Trocar só o disjuntor por um maior, sem trocar o fio, aumenta o risco de incêndio.
