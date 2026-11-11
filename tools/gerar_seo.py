@@ -184,7 +184,6 @@ def texto_pagina(src):
 
 def gerar_llms_full(pags):
     neg = tipo(grafo(ler(ROOT / "index.html")), "Electrician")
-    end = neg["address"]
     out = ["# Elétrica Conexão Vix: texto completo",
            "",
            "> Conteúdo das páginas do site em texto simples, gerado a partir do HTML publicado em "
@@ -192,7 +191,7 @@ def gerar_llms_full(pags):
            "",
            "## Dados do negócio",
            f"- Nome: {neg['name']}",
-           f"- Endereço: {end['streetAddress']}, Itararé, {end['addressLocality']} - {end['addressRegion']}, {end['postalCode']}",
+           "- Endereço: não divulgado; a equipe atende no local do cliente",
            "- Telefone e WhatsApp: (27) 99933-8844",
            "- Horário: aberto 24 horas, todos os dias",
            "- Área de atendimento: Vitória (foco), Vila Velha e Serra",
