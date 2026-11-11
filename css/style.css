@@ -292,6 +292,12 @@ p{margin:0 0 1em;text-wrap:pretty}
 .rodape-col a{color:#E3EBF8;text-decoration:none;min-height:36px;display:inline-flex;align-items:center}
 .rodape-col a:hover{color:#fff;text-decoration:underline}
 .rodape-fim{margin:28px 0 0;padding-top:18px;border-top:1px solid rgba(255,255,255,.14);font-size:.82rem;color:#9FB2D2}
+.rodape-fim{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 24px}
+.rodape-fim p{margin:0}
+.credito{display:inline-flex;align-items:center;gap:10px;min-height:44px;color:#9FB2D2;text-decoration:none}
+.credito img{display:block;width:auto;height:22px;opacity:.95;transition:opacity .15s}
+.credito:hover img,.credito:focus-visible img{opacity:1}
+.credito:hover span{color:#fff}
 
 .h1-pagina{font-size:clamp(2.4rem,6vw,4rem);margin-bottom:.4em}
 
